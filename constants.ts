@@ -1,0 +1,2 @@
+
+export const GRATUITY_TAX_EXEMPT_LIMIT = 2000000;

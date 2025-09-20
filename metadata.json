@@ -1,0 +1,5 @@
+{
+  "name": "Gratuity Calculator Pro",
+  "description": "An intuitive and accurate application to calculate employee gratuity based on statutory rules. It allows for employee data input, calculates gratuity and tax implications, and stores a history of calculations for easy reference.",
+  "requestFramePermissions": []
+}
